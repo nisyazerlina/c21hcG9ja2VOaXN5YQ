@@ -1,0 +1,489 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VOaXN5YQ/c21hcG9ja2VOaXN5YQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Nisya =====
+[1]Nisya       |09:07:52 | 11-10-2026| login OK @nisyazerlina | score=920 rank=6398
+[1]Nisya       |09:07:52 | 11-10-2026| serverTime=2026-10-11T09:07:52.000Z local=2026-10-11T09:07:52.373Z
+--> [1]Nisya menjalankan: Claim Daily
+[1]Nisya       |09:07:54 | 11-10-2026| daily: sudah klaim (already=true) score=920
+--> [1]Nisya menjalankan: Auto All Tasks (2 pending)
+[1]Nisya       |09:07:56 | 11-10-2026| [1/2] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisyazerlina/status/2109208976601747381
+[1]Nisya       |09:07:56 | 11-10-2026| delay 10s...
+[1]Nisya       |09:08:09 | 11-10-2026| [2/2] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisyazerlina/status/2109209077169118208
+[1]Nisya       |09:08:09 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nisya       |09:08:11 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/nisyazerlina/status/2109208801785450987
+--> [1]Nisya menjalankan: Watch Anime
+[1]Nisya       |09:08:11 | 11-10-2026| watch: 4 video belum completed: oshi-theme-mv,oshi-theme-lyric-video,oshi-first-journey,ep1
+[1]Nisya       |09:08:11 | 11-10-2026| watch [1/4] farming oshi-theme-mv...
+[1]Nisya       |09:08:12 | 11-10-2026| watch oshi-theme-mv: mulai dari 0 (record 39.7s diabaikan)
+[1]Nisya       |09:08:15 | 11-10-2026| watch oshi-theme-mv: 37% (39.65/106.00s)
+[1]Nisya       |09:08:21 | 11-10-2026| watch oshi-theme-mv: 37% (39.65/106.00s)
+[1]Nisya       |09:08:27 | 11-10-2026| watch oshi-theme-mv: 37% (39.65/106.00s)
+[1]Nisya       |09:08:33 | 11-10-2026| watch oshi-theme-mv: 37% (39.65/106.00s)
+[1]Nisya       |09:08:40 | 11-10-2026| watch oshi-theme-mv: 37% (39.65/106.00s)
+[1]Nisya       |09:08:46 | 11-10-2026| watch oshi-theme-mv: 37% (40.02/106.00s)
+[1]Nisya       |09:08:52 | 11-10-2026| watch oshi-theme-mv: 37% (40.02/106.00s)
+[1]Nisya       |09:08:59 | 11-10-2026| watch oshi-theme-mv: 38% (40.72/106.00s)
+[1]Nisya       |09:09:05 | 11-10-2026| watch oshi-theme-mv: 44% (46.80/106.00s)
+[1]Nisya       |09:09:13 | 11-10-2026| watch oshi-theme-mv: 49% (52.47/106.00s)
+[1]Nisya       |09:09:21 | 11-10-2026| watch oshi-theme-mv: 56% (59.50/106.00s)
+[1]Nisya       |09:09:31 | 11-10-2026| watch oshi-theme-mv: 62% (66.10/106.00s)
+[1]Nisya       |09:09:40 | 11-10-2026| watch oshi-theme-mv: 70% (75.12/106.00s)
+[1]Nisya       |09:09:47 | 11-10-2026| watch oshi-theme-mv: 77% (82.16/106.00s)
+[1]Nisya       |09:09:53 | 11-10-2026| watch oshi-theme-mv: 83% (88.53/106.00s)
+[1]Nisya       |09:10:00 | 11-10-2026| watch oshi-theme-mv: 88% (94.29/106.00s)
+[1]Nisya       |09:10:06 | 11-10-2026| watch oshi-theme-mv: 94% (100.19/106.00s)
+[1]Nisya       |09:10:06 | 11-10-2026| watch oshi-theme-mv: COMPLETED (100.19/106.00s)
+[1]Nisya       |09:10:11 | 11-10-2026| watch [2/4] farming oshi-theme-lyric-video...
+[1]Nisya       |09:10:12 | 11-10-2026| watch oshi-theme-lyric-video: mulai dari 0 (record 154.6s diabaikan)
+[1]Nisya       |09:10:13 | 11-10-2026| watch oshi-theme-lyric-video: 57% (154.61/269.00s)
+[1]Nisya       |09:10:22 | 11-10-2026| watch oshi-theme-lyric-video: 57% (154.61/269.00s)
+[1]Nisya       |09:10:28 | 11-10-2026| watch oshi-theme-lyric-video: 57% (154.61/269.00s)
+[1]Nisya       |09:10:35 | 11-10-2026| watch oshi-theme-lyric-video: 57% (154.61/269.00s)
+[1]Nisya       |09:10:41 | 11-10-2026| watch oshi-theme-lyric-video: 57% (154.61/269.00s)
+[1]Nisya       |09:10:51 | 11-10-2026| watch oshi-theme-lyric-video: 57% (154.61/269.00s)
+[1]Nisya       |09:11:00 | 11-10-2026| watch oshi-theme-lyric-video: 57% (154.61/269.00s)
+[1]Nisya       |09:11:07 | 11-10-2026| watch oshi-theme-lyric-video: 57% (154.61/269.00s)
+[1]Nisya       |09:11:16 | 11-10-2026| watch oshi-theme-lyric-video: 57% (154.61/269.00s)
+[1]Nisya       |09:11:22 | 11-10-2026| watch oshi-theme-lyric-video: 57% (154.61/269.00s)
+[1]Nisya       |09:11:29 | 11-10-2026| watch oshi-theme-lyric-video: 57% (155.01/269.00s)
+[1]Nisya       |09:11:37 | 11-10-2026| watch oshi-theme-lyric-video: 57% (155.01/269.00s)
+[1]Nisya       |09:11:44 | 11-10-2026| watch oshi-theme-lyric-video: 58% (156.53/269.00s)
+[1]Nisya       |09:11:51 | 11-10-2026| watch oshi-theme-lyric-video: 58% (157.08/269.00s)
+[1]Nisya       |09:11:58 | 11-10-2026| watch oshi-theme-lyric-video: 58% (157.08/269.00s)
+[1]Nisya       |09:12:04 | 11-10-2026| watch oshi-theme-lyric-video: 58% (157.08/269.00s)
+[1]Nisya       |09:12:10 | 11-10-2026| watch oshi-theme-lyric-video: 58% (157.08/269.00s)
+[1]Nisya       |09:12:17 | 11-10-2026| watch oshi-theme-lyric-video: 58% (157.08/269.00s)
+[1]Nisya       |09:12:23 | 11-10-2026| watch oshi-theme-lyric-video: 60% (163.06/269.00s)
+[1]Nisya       |09:12:30 | 11-10-2026| watch oshi-theme-lyric-video: 62% (166.99/269.00s)
+[1]Nisya       |09:12:37 | 11-10-2026| watch oshi-theme-lyric-video: 62% (166.99/269.00s)
+[1]Nisya       |09:12:45 | 11-10-2026| watch oshi-theme-lyric-video: 62% (168.20/269.00s)
+[1]Nisya       |09:12:51 | 11-10-2026| watch oshi-theme-lyric-video: 62% (168.20/269.00s)
+[1]Nisya       |09:13:00 | 11-10-2026| watch oshi-theme-lyric-video: 62% (168.20/269.00s)
+[1]Nisya       |09:13:07 | 11-10-2026| watch oshi-theme-lyric-video: 62% (168.20/269.00s)
+[1]Nisya       |09:13:15 | 11-10-2026| watch oshi-theme-lyric-video: 63% (169.63/269.00s)
+[1]Nisya       |09:13:22 | 11-10-2026| watch oshi-theme-lyric-video: 63% (170.16/269.00s)
+[1]Nisya       |09:13:28 | 11-10-2026| watch oshi-theme-lyric-video: 64% (173.90/269.00s)
+[1]Nisya       |09:13:36 | 11-10-2026| watch oshi-theme-lyric-video: 66% (179.81/269.00s)
+[1]Nisya       |09:13:42 | 11-10-2026| watch oshi-theme-lyric-video: 69% (186.38/269.00s)
+[1]Nisya       |09:13:49 | 11-10-2026| watch oshi-theme-lyric-video: 71% (192.58/269.00s)
+[1]Nisya       |09:13:56 | 11-10-2026| watch oshi-theme-lyric-video: 73% (198.18/269.00s)
+[1]Nisya       |09:14:05 | 11-10-2026| watch oshi-theme-lyric-video: 76% (205.05/269.00s)
+[1]Nisya       |09:14:13 | 11-10-2026| watch oshi-theme-lyric-video: 79% (212.89/269.00s)
+[1]Nisya       |09:14:19 | 11-10-2026| watch oshi-theme-lyric-video: 81% (219.26/269.00s)
+[1]Nisya       |09:14:26 | 11-10-2026| watch oshi-theme-lyric-video: 83% (225.00/269.00s)
+[1]Nisya       |09:14:33 | 11-10-2026| watch oshi-theme-lyric-video: 85% (230.63/269.00s)
+[1]Nisya       |09:14:41 | 11-10-2026| watch oshi-theme-lyric-video: 88% (237.31/269.00s)
+[1]Nisya       |09:14:47 | 11-10-2026| watch oshi-theme-lyric-video: 90% (243.99/269.00s)
+[1]Nisya       |09:14:47 | 11-10-2026| watch oshi-theme-lyric-video: COMPLETED (243.99/269.00s)
+[1]Nisya       |09:14:52 | 11-10-2026| watch [3/4] farming oshi-first-journey...
+[1]Nisya       |09:14:54 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Nisya       |09:15:01 | 11-10-2026| watch oshi-first-journey: 6% (5.41/87.00s)
+[1]Nisya       |09:15:07 | 11-10-2026| watch oshi-first-journey: 12% (11.26/87.00s)
+[1]Nisya       |09:15:14 | 11-10-2026| watch oshi-first-journey: 19% (16.89/87.00s)
+[1]Nisya       |09:15:26 | 11-10-2026| watch oshi-first-journey: 26% (23.43/87.00s)
+[1]Nisya       |09:15:34 | 11-10-2026| watch oshi-first-journey: 37% (32.51/87.00s)
+[1]Nisya       |09:15:40 | 11-10-2026| watch oshi-first-journey: 45% (39.73/87.00s)
+[1]Nisya       |09:15:51 | 11-10-2026| watch oshi-first-journey: 52% (45.36/87.00s)
+[1]Nisya       |09:15:58 | 11-10-2026| watch oshi-first-journey: 61% (53.41/87.00s)
+[1]Nisya       |09:16:08 | 11-10-2026| watch oshi-first-journey: 68% (59.54/87.00s)
+[1]Nisya       |09:16:17 | 11-10-2026| watch oshi-first-journey: 79% (68.87/87.00s)
+[1]Nisya       |09:16:23 | 11-10-2026| watch oshi-first-journey: 86% (75.25/87.00s)
+[1]Nisya       |09:16:31 | 11-10-2026| watch oshi-first-journey: 93% (80.99/87.00s)
+[1]Nisya       |09:16:31 | 11-10-2026| watch oshi-first-journey: COMPLETED (80.99/87.00s)
+[1]Nisya       |09:16:36 | 11-10-2026| watch [4/4] farming ep1...
+[1]Nisya       |09:16:36 | 11-10-2026| watch ep1: mulai dari 0 (record 109.2s diabaikan)
+[1]Nisya       |09:16:37 | 11-10-2026| watch ep1: 28% (109.20/382.00s)
+[1]Nisya       |09:16:44 | 11-10-2026| watch ep1: 28% (109.20/382.00s)
+[1]Nisya       |09:16:53 | 11-10-2026| watch ep1: 28% (109.20/382.00s)
+[1]Nisya       |09:17:02 | 11-10-2026| watch ep1: 28% (109.20/382.00s)
+[1]Nisya       |09:17:10 | 11-10-2026| watch ep1: 28% (109.20/382.00s)
+[1]Nisya       |09:17:18 | 11-10-2026| watch ep1: 30% (115.87/382.00s)
+[1]Nisya       |09:17:26 | 11-10-2026| watch ep1: 31% (119.97/382.00s)
+[1]Nisya       |09:17:33 | 11-10-2026| watch ep1: 31% (119.97/382.00s)
+[1]Nisya       |09:17:41 | 11-10-2026| watch ep1: 31% (119.97/382.00s)
+[1]Nisya       |09:17:48 | 11-10-2026| watch ep1: 31% (119.97/382.00s)
+[1]Nisya       |09:17:54 | 11-10-2026| watch ep1: 31% (119.97/382.00s)
+[1]Nisya       |09:18:02 | 11-10-2026| watch ep1: 31% (120.88/382.00s)
+[1]Nisya       |09:18:09 | 11-10-2026| watch ep1: 31% (120.88/382.00s)
+[1]Nisya       |09:18:16 | 11-10-2026| watch ep1: 31% (120.93/382.00s)
+[1]Nisya       |09:18:24 | 11-10-2026| watch ep1: 31% (121.14/382.00s)
+[1]Nisya       |09:18:30 | 11-10-2026| watch ep1: 31% (121.14/382.00s)
+[1]Nisya       |09:18:37 | 11-10-2026| watch ep1: 31% (121.14/382.00s)
+[1]Nisya       |09:18:44 | 11-10-2026| watch ep1: 31% (121.14/382.00s)
+[1]Nisya       |09:18:52 | 11-10-2026| watch ep1: 31% (121.14/382.00s)
+[1]Nisya       |09:18:58 | 11-10-2026| watch ep1: 32% (125.82/382.00s)
+[1]Nisya       |09:19:06 | 11-10-2026| watch ep1: 34% (131.47/382.00s)
+[1]Nisya       |09:19:13 | 11-10-2026| watch ep1: 36% (138.52/382.00s)
+[1]Nisya       |09:19:21 | 11-10-2026| watch ep1: 37% (144.73/382.00s)
+[1]Nisya       |09:19:27 | 11-10-2026| watch ep1: 39% (151.52/382.00s)
+[1]Nisya       |09:19:34 | 11-10-2026| watch ep1: 41% (157.11/382.00s)
+[1]Nisya       |09:19:42 | 11-10-2026| watch ep1: 42% (162.73/382.00s)
+[1]Nisya       |09:19:48 | 11-10-2026| watch ep1: 44% (169.01/382.00s)
+[1]Nisya       |09:19:58 | 11-10-2026| watch ep1: 45% (174.65/382.00s)
+[1]Nisya       |09:20:06 | 11-10-2026| watch ep1: 47% (183.23/382.00s)
+[1]Nisya       |09:20:13 | 11-10-2026| watch ep1: 49% (189.46/382.00s)
+[1]Nisya       |09:20:20 | 11-10-2026| watch ep1: 51% (195.07/382.00s)
+[1]Nisya       |09:20:29 | 11-10-2026| watch ep1: 52% (201.66/382.00s)
+[1]Nisya       |09:20:36 | 11-10-2026| watch ep1: 54% (209.14/382.00s)
+[1]Nisya       |09:20:43 | 11-10-2026| watch ep1: 56% (215.53/382.00s)
+[1]Nisya       |09:20:50 | 11-10-2026| watch ep1: 57% (221.26/382.00s)
+[1]Nisya       |09:21:01 | 11-10-2026| watch ep1: 59% (228.21/382.00s)
+[1]Nisya       |09:21:10 | 11-10-2026| watch ep1: 62% (237.19/382.00s)
+[1]Nisya       |09:21:18 | 11-10-2026| watch ep1: 64% (245.36/382.00s)
+[1]Nisya       |09:21:26 | 11-10-2026| watch ep1: 66% (252.93/382.00s)
+[1]Nisya       |09:21:32 | 11-10-2026| watch ep1: 67% (259.21/382.00s)
+[1]Nisya       |09:21:41 | 11-10-2026| watch ep1: 69% (264.84/382.00s)
+[1]Nisya       |09:21:47 | 11-10-2026| watch ep1: 71% (271.26/382.00s)
+[1]Nisya       |09:21:57 | 11-10-2026| watch ep1: 72% (277.05/382.00s)
+[1]Nisya       |09:22:07 | 11-10-2026| watch ep1: 74% (285.40/382.00s)
+[1]Nisya       |09:22:14 | 11-10-2026| watch ep1: 76% (294.09/382.00s)
+[1]Nisya       |09:22:22 | 11-10-2026| watch ep1: 78% (300.45/382.00s)
+[1]Nisya       |09:22:29 | 11-10-2026| watch ep1: 80% (307.40/382.00s)
+[1]Nisya       |09:22:37 | 11-10-2026| watch ep1: 82% (313.67/382.00s)
+[1]Nisya       |09:22:44 | 11-10-2026| watch ep1: 83% (320.56/382.00s)
+[1]Nisya       |09:22:51 | 11-10-2026| watch ep1: 85% (326.67/382.00s)
+[1]Nisya       |09:22:58 | 11-10-2026| watch ep1: 87% (332.53/382.00s)
+[1]Nisya       |09:23:07 | 11-10-2026| watch ep1: 88% (339.63/382.00s)
+[1]Nisya       |09:23:13 | 11-10-2026| watch ep1: 90% (346.80/382.00s)
+[1]Nisya       |09:23:13 | 11-10-2026| watch ep1: COMPLETED (346.80/382.00s)
+--> [1]Nisya menjalankan: Read Article
+[1]Nisya       |09:23:16 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Nisya       |09:23:16 | 11-10-2026| mint eligibility: {"userId":"2011467283777064960","youtube":{"url":"https://www.youtube.com/@nisyazerlina","status":"submitted","revision":"a29def7a-e433-40fb-afd2-3913a2979cea","submittedAt":1791685725,"reviewedAt":17
+[1]Nisya       |09:23:16 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Nisya menjalankan: Quiz Anime
+[1]Nisya       |09:23:19 | 11-10-2026| quiz ep1: BENAR (0) +10 poin
+[1]Nisya       |09:23:22 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Nisya       |09:23:22 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Nisya       |09:23:22 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Nisya       |09:23:22 | 11-10-2026| quiz ep5: sudah dijawab
+[1]Nisya       |09:23:22 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Nisya menjalankan: Music Missions (realtime, bisa lama!)
+[1]Nisya       |09:23:25 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Nisya       |09:23:36 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0063/269s)
+[1]Nisya       |09:23:50 | 11-10-2026| music "せーので、飛ぼう！": 7% (19.0845/269s)
+[1]Nisya       |09:24:02 | 11-10-2026| music "せーので、飛ぼう！": 11% (31.5036/269s)
+[1]Nisya       |09:24:14 | 11-10-2026| music "せーので、飛ぼう！": 15% (41.958/269s)
+[1]Nisya       |09:24:25 | 11-10-2026| music "せーので、飛ぼう！": 19% (52.686899999999994/269s)
+[1]Nisya       |09:24:38 | 11-10-2026| music "せーので、飛ぼう！": 23% (62.786699999999996/269s)
+[1]Nisya       |09:24:50 | 11-10-2026| music "せーので、飛ぼう！": 27% (74.3166/269s)
+[1]Nisya       |09:25:01 | 11-10-2026| music "せーので、飛ぼう！": 31% (84.9879/269s)
+[1]Nisya       |09:25:12 | 11-10-2026| music "せーので、飛ぼう！": 35% (95.3865/269s)
+[1]Nisya       |09:25:24 | 11-10-2026| music "せーので、飛ぼう！": 39% (105.4062/269s)
+[1]Nisya       |09:25:36 | 11-10-2026| music "せーので、飛ぼう！": 43% (116.091/269s)
+[1]Nisya       |09:25:47 | 11-10-2026| music "せーので、飛ぼう！": 46% (126.40679999999999/269s)
+[1]Nisya       |09:25:58 | 11-10-2026| music "せーので、飛ぼう！": 50% (136.3716/269s)
+[1]Nisya       |09:26:09 | 11-10-2026| music "せーので、飛ぼう！": 54% (146.9106/269s)
+[1]Nisya       |09:26:21 | 11-10-2026| music "せーので、飛ぼう！": 58% (156.83849999999998/269s)
+[1]Nisya       |09:26:32 | 11-10-2026| music "せーので、飛ぼう！": 62% (166.8978/269s)
+[1]Nisya       |09:26:43 | 11-10-2026| music "せーので、飛ぼう！": 65% (176.7924/269s)
+[1]Nisya       |09:26:55 | 11-10-2026| music "せーので、飛ぼう！": 69% (187.2576/269s)
+[1]Nisya       |09:27:06 | 11-10-2026| music "せーので、飛ぼう！": 73% (197.8506/269s)
+[1]Nisya       |09:27:17 | 11-10-2026| music "せーので、飛ぼう！": 77% (207.9117/269s)
+[1]Nisya       |09:27:29 | 11-10-2026| music "せーので、飛ぼう！": 80% (217.8135/269s)
+[1]Nisya       |09:27:30 | 11-10-2026| music "せーので、飛ぼう！": selesai 217.8135s
+[1]Nisya       |09:27:32 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Nisya       |09:27:44 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
+[1]Nisya       |09:27:55 | 11-10-2026| music "ON CHAIN NEXUS": 7% (19.8261/276s)
+[1]Nisya       |09:28:06 | 11-10-2026| music "ON CHAIN NEXUS": 10% (29.814300000000003/276s)
+[1]Nisya       |09:28:17 | 11-10-2026| music "ON CHAIN NEXUS": 14% (40.0518/276s)
+[1]Nisya       |09:28:29 | 11-10-2026| music "ON CHAIN NEXUS": 18% (50.091300000000004/276s)
+[1]Nisya       |09:28:40 | 11-10-2026| music "ON CHAIN NEXUS": 21% (60.0642/276s)
+[1]Nisya       |09:28:53 | 11-10-2026| music "ON CHAIN NEXUS": 25% (70.7922/276s)
+[1]Nisya       |09:29:05 | 11-10-2026| music "ON CHAIN NEXUS": 29% (82.34909999999999/276s)
+[1]Nisya       |09:29:16 | 11-10-2026| music "ON CHAIN NEXUS": 33% (93.0105/276s)
+[1]Nisya       |09:29:28 | 11-10-2026| music "ON CHAIN NEXUS": 37% (102.9249/276s)
+[1]Nisya       |09:29:39 | 11-10-2026| music "ON CHAIN NEXUS": 41% (113.16059999999999/276s)
+[1]Nisya       |09:29:54 | 11-10-2026| music "ON CHAIN NEXUS": 44% (123.36479999999999/276s)
+[1]Nisya       |09:30:05 | 11-10-2026| music "ON CHAIN NEXUS": 49% (136.5831/276s)
+[1]Nisya       |09:30:16 | 11-10-2026| music "ON CHAIN NEXUS": 53% (146.4795/276s)
+[1]Nisya       |09:30:27 | 11-10-2026| music "ON CHAIN NEXUS": 56% (156.9672/276s)
+[1]Nisya       |09:30:39 | 11-10-2026| music "ON CHAIN NEXUS": 60% (166.8996/276s)
+[1]Nisya       |09:30:51 | 11-10-2026| music "ON CHAIN NEXUS": 64% (177.73919999999998/276s)
+[1]Nisya       |09:31:02 | 11-10-2026| music "ON CHAIN NEXUS": 68% (188.42309999999998/276s)
+[1]Nisya       |09:31:13 | 11-10-2026| music "ON CHAIN NEXUS": 71% (198.504/276s)
+[1]Nisya       |09:31:25 | 11-10-2026| music "ON CHAIN NEXUS": 75% (208.5111/276s)
+[1]Nisya       |09:31:37 | 11-10-2026| music "ON CHAIN NEXUS": 79% (219.2319/276s)
+[1]Nisya       |09:31:48 | 11-10-2026| music "ON CHAIN NEXUS": 83% (229.2525/276s)
+[1]Nisya       |09:31:48 | 11-10-2026| music "ON CHAIN NEXUS": selesai 229.2525s
+[1]Nisya       |09:31:50 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nisya       |09:31:51 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Nisya       |09:31:56 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Nisya       |09:32:00 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+--> [1]Nisya menjalankan: Claim Missions
+[1]Nisya       |09:32:04 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Nisya       |09:32:04 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nisya       |09:32:04 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Nisya menjalankan: Check Eligibility
+
+--- eligibility [1]Nisya ---
+  @nisyazerlina | score=920 rank=6398
+  tasks    [###################-] 74/76
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Nisya menjalankan: Read Manga
+[1]Nisya       |09:32:09 | 11-10-2026| manga: 13/13 chapter belum completed
+[1]Nisya       |09:32:09 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Nisya       |09:32:15 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Nisya       |09:32:19 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 5s
+[1]Nisya       |09:32:24 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 9s
+[1]Nisya       |09:32:28 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 14s
+[1]Nisya       |09:32:34 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 18s
+[1]Nisya       |09:32:38 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 24s
+[1]Nisya       |09:32:43 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 28s
+[1]Nisya       |09:32:48 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 33s
+[1]Nisya       |09:32:52 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 37s
+[1]Nisya       |09:32:57 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 42s
+[1]Nisya       |09:33:01 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 47s
+[1]Nisya       |09:33:06 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 51s
+[1]Nisya       |09:33:11 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 56s
+[1]Nisya       |09:33:15 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 60s
+[1]Nisya       |09:33:20 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 65s
+[1]Nisya       |09:33:24 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 69s
+[1]Nisya       |09:33:29 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 74s
+[1]Nisya       |09:33:33 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 78s
+[1]Nisya       |09:33:38 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 83s
+[1]Nisya       |09:33:43 | 11-10-2026| manga ch1 (1): COMPLETED
+[1]Nisya       |09:33:46 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Nisya       |09:33:52 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Nisya       |09:33:57 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 4s
+[1]Nisya       |09:34:02 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 10s
+[1]Nisya       |09:34:06 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
+[1]Nisya       |09:34:11 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 19s
+[1]Nisya       |09:34:16 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 24s
+[1]Nisya       |09:34:21 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 29s
+[1]Nisya       |09:34:25 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 34s
+[1]Nisya       |09:34:30 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 38s
+[1]Nisya       |09:34:36 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 43s
+[1]Nisya       |09:34:41 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 49s
+[1]Nisya       |09:34:45 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 53s
+[1]Nisya       |09:34:50 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 58s
+[1]Nisya       |09:34:55 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 63s
+[1]Nisya       |09:34:59 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 68s
+[1]Nisya       |09:35:04 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 72s
+[1]Nisya       |09:35:08 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 77s
+[1]Nisya       |09:35:13 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 81s
+[1]Nisya       |09:35:19 | 11-10-2026| manga ch2 (450001): COMPLETED
+[1]Nisya       |09:35:22 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Nisya       |09:35:27 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Nisya       |09:35:32 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 5s
+[1]Nisya       |09:35:38 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
+[1]Nisya       |09:35:43 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 15s
+[1]Nisya       |09:35:49 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 21s
+[1]Nisya       |09:35:53 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 26s
+[1]Nisya       |09:35:59 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 31s
+[1]Nisya       |09:36:04 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 36s
+[1]Nisya       |09:36:09 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 41s
+[1]Nisya       |09:36:13 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 46s
+[1]Nisya       |09:36:18 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 50s
+[1]Nisya       |09:36:23 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 55s
+[1]Nisya       |09:36:28 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 60s
+[1]Nisya       |09:36:33 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 65s
+[1]Nisya       |09:36:38 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 70s
+[1]Nisya       |09:36:43 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 75s
+[1]Nisya       |09:36:47 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 80s
+[1]Nisya       |09:36:52 | 11-10-2026| manga ch3 (2160001): COMPLETED
+[1]Nisya       |09:36:55 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Nisya       |09:37:01 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Nisya       |09:37:06 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
+[1]Nisya       |09:37:11 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
+[1]Nisya       |09:37:16 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 14s
+[1]Nisya       |09:37:20 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 19s
+[1]Nisya       |09:37:26 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 23s
+[1]Nisya       |09:37:31 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 29s
+[1]Nisya       |09:37:36 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 34s
+[1]Nisya       |09:37:40 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 39s
+[1]Nisya       |09:37:46 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 44s
+[1]Nisya       |09:37:51 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 49s
+[1]Nisya       |09:37:56 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 54s
+[1]Nisya       |09:38:01 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 59s
+[1]Nisya       |09:38:05 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 64s
+[1]Nisya       |09:38:10 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 69s
+[1]Nisya       |09:38:14 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 73s
+[1]Nisya       |09:38:19 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 78s
+[1]Nisya       |09:38:24 | 11-10-2026| manga ch4 (2400001): COMPLETED
+[1]Nisya       |09:38:27 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Nisya       |09:38:33 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Nisya       |09:38:38 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
+[1]Nisya       |09:38:42 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
+[1]Nisya       |09:38:47 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
+[1]Nisya       |09:38:51 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 18s
+[1]Nisya       |09:38:56 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 23s
+[1]Nisya       |09:39:00 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 27s
+[1]Nisya       |09:39:05 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 32s
+[1]Nisya       |09:39:09 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 36s
+[1]Nisya       |09:39:14 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 41s
+[1]Nisya       |09:39:19 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 45s
+[1]Nisya       |09:39:24 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 50s
+[1]Nisya       |09:39:29 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 56s
+[1]Nisya       |09:39:34 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 60s
+[1]Nisya       |09:39:39 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 65s
+[1]Nisya       |09:39:44 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 71s
+[1]Nisya       |09:39:49 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 76s
+[1]Nisya       |09:39:53 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 80s
+[1]Nisya       |09:39:59 | 11-10-2026| manga ch5 (2490001): COMPLETED
+[1]Nisya       |09:40:02 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Nisya       |09:40:10 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Nisya       |09:40:16 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 6s
+[1]Nisya       |09:40:22 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 12s
+[1]Nisya       |09:40:27 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 17s
+[1]Nisya       |09:40:31 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 22s
+[1]Nisya       |09:40:36 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 27s
+[1]Nisya       |09:40:41 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 31s
+[1]Nisya       |09:40:45 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 36s
+[1]Nisya       |09:40:50 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 41s
+[1]Nisya       |09:40:55 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 46s
+[1]Nisya       |09:41:01 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 50s
+[1]Nisya       |09:41:05 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 56s
+[1]Nisya       |09:41:10 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 61s
+[1]Nisya       |09:41:15 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 66s
+[1]Nisya       |09:41:20 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 70s
+[1]Nisya       |09:41:25 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 75s
+[1]Nisya       |09:41:30 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 81s
+[1]Nisya       |09:41:35 | 11-10-2026| manga ch6 (2610001): COMPLETED
+[1]Nisya       |09:41:38 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Nisya       |09:41:44 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Nisya       |09:41:49 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
+[1]Nisya       |09:41:54 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 9s
+[1]Nisya       |09:41:59 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 15s
+[1]Nisya       |09:42:05 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 19s
+[1]Nisya       |09:42:10 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 26s
+[1]Nisya       |09:42:15 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 31s
+[1]Nisya       |09:42:20 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 36s
+[1]Nisya       |09:42:25 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 41s
+[1]Nisya       |09:42:30 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 46s
+[1]Nisya       |09:42:36 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 51s
+[1]Nisya       |09:42:41 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 57s
+[1]Nisya       |09:42:46 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 62s
+[1]Nisya       |09:42:50 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 66s
+[1]Nisya       |09:42:55 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 71s
+[1]Nisya       |09:43:00 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 76s
+[1]Nisya       |09:43:05 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 80s
+[1]Nisya       |09:43:10 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 85s
+[1]Nisya       |09:43:14 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 90s
+[1]Nisya       |09:43:19 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 95s
+[1]Nisya       |09:43:24 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 100s
+[1]Nisya       |09:43:29 | 11-10-2026| manga ch1 (180003): COMPLETED
+[1]Nisya       |09:43:32 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Nisya       |09:43:38 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Nisya       |09:43:43 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 4s
+[1]Nisya       |09:43:48 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
+[1]Nisya       |09:43:53 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 14s
+[1]Nisya       |09:43:57 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 19s
+[1]Nisya       |09:44:02 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 24s
+[1]Nisya       |09:44:07 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 29s
+[1]Nisya       |09:44:12 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 33s
+[1]Nisya       |09:44:16 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 38s
+[1]Nisya       |09:44:21 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 43s
+[1]Nisya       |09:44:26 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 47s
+[1]Nisya       |09:44:31 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 52s
+[1]Nisya       |09:44:36 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 58s
+[1]Nisya       |09:44:41 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 63s
+[1]Nisya       |09:44:45 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 67s
+[1]Nisya       |09:44:51 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 72s
+[1]Nisya       |09:44:56 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 77s
+[1]Nisya       |09:45:01 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 82s
+[1]Nisya       |09:45:05 | 11-10-2026| manga ch2 (990005): COMPLETED
+[1]Nisya       |09:45:08 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Nisya       |09:45:16 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Nisya       |09:45:21 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 6s
+[1]Nisya       |09:45:26 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 11s
+[1]Nisya       |09:45:30 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 16s
+[1]Nisya       |09:45:35 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 20s
+[1]Nisya       |09:45:40 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 25s
+[1]Nisya       |09:45:45 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 31s
+[1]Nisya       |09:45:50 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 35s
+[1]Nisya       |09:45:54 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 40s
+[1]Nisya       |09:45:59 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 45s
+[1]Nisya       |09:46:04 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 49s
+[1]Nisya       |09:46:09 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 54s
+[1]Nisya       |09:46:13 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 59s
+[1]Nisya       |09:46:18 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 63s
+[1]Nisya       |09:46:23 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 69s
+[1]Nisya       |09:46:28 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 73s
+[1]Nisya       |09:46:33 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 78s
+[1]Nisya       |09:46:38 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 83s
+[1]Nisya       |09:46:45 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 89s
+[1]Nisya       |09:46:50 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 95s
+[1]Nisya       |09:46:55 | 11-10-2026| manga ch3 (1980001): COMPLETED
+[1]Nisya       |09:46:58 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Nisya       |09:47:04 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Nisya       |09:47:09 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
+[1]Nisya       |09:47:14 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 10s
+[1]Nisya       |09:47:19 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 14s
+[1]Nisya       |09:47:24 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 20s
+[1]Nisya       |09:47:30 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 25s
+[1]Nisya       |09:47:35 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 31s
+[1]Nisya       |09:47:40 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 36s
+[1]Nisya       |09:47:44 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 40s
+[1]Nisya       |09:47:49 | 11-10-2026| manga ch1 (2100001): COMPLETED
+[1]Nisya       |09:47:52 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Nisya       |09:47:58 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Nisya       |09:48:03 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
+[1]Nisya       |09:48:08 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 10s
+[1]Nisya       |09:48:13 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 15s
+[1]Nisya       |09:48:17 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 19s
+[1]Nisya       |09:48:22 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 24s
+[1]Nisya       |09:48:28 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 29s
+[1]Nisya       |09:48:32 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 35s
+[1]Nisya       |09:48:38 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 39s
+[1]Nisya       |09:48:43 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 45s
+[1]Nisya       |09:48:47 | 11-10-2026| manga ch1 (2070001): COMPLETED
+[1]Nisya       |09:48:50 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Nisya       |09:48:56 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Nisya       |09:49:03 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
+[1]Nisya       |09:49:07 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 11s
+[1]Nisya       |09:49:12 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 16s
+[1]Nisya       |09:49:17 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 21s
+[1]Nisya       |09:49:22 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 26s
+[1]Nisya       |09:49:27 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 31s
+[1]Nisya       |09:49:32 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 35s
+[1]Nisya       |09:49:37 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 41s
+[1]Nisya       |09:49:42 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 46s
+[1]Nisya       |09:49:48 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 51s
+[1]Nisya       |09:49:52 | 11-10-2026| manga ch2 (2520001): COMPLETED
+[1]Nisya       |09:49:55 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Nisya       |09:50:03 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Nisya       |09:50:08 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 5s
+[1]Nisya       |09:50:12 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 11s
+[1]Nisya       |09:50:17 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 15s
+[1]Nisya       |09:50:22 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 20s
+[1]Nisya       |09:50:27 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 25s
+[1]Nisya       |09:50:31 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 30s
+[1]Nisya       |09:50:36 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 34s
+[1]Nisya       |09:50:41 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 39s
+[1]Nisya       |09:50:46 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 44s
+[1]Nisya       |09:50:52 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 49s
+[1]Nisya       |09:50:57 | 11-10-2026| manga ch3 (2550001): COMPLETED
+--> [1]Nisya menjalankan: Get Gift
+[1]Nisya       |09:51:01 | 11-10-2026| gift: 3/3 belum diterima
+[1]Nisya       |09:51:02 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Nisya       |09:51:06 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Nisya       |09:51:09 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+--> [1]Nisya menjalankan: Setup Profile
+[1]Nisya       |09:51:12 | 11-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Nisya       |09:51:13 | 11-10-2026| profile: OK bio="https://x.com/nisyazerlina" fav=kagura awarded=true +10pt
+--> [1]Nisya menjalankan: Bind Wallet
+[1]Nisya       |09:51:14 | 11-10-2026| wallet: derivasi dari privateKeySolana -> 3H7Ws4JHJQGp4igmHiUtgVKnWzem6yHyNc9ErLu4Boko (cek cocok dengan wallet kamu!)
+[1]Nisya       |09:51:16 | 11-10-2026| wallet: /api/wallet OK (solana)
+[1]Nisya       |09:51:17 | 11-10-2026| wallet: /api/sol-address OK
+
+== RINGKASAN ==
+- Nisya: daily=already | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 6 (+10pt) | watch 4/4 completed | musik 2 trek ~447.06600000000003s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
