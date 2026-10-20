@@ -12,60 +12,70 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nisya =====
-[1]Nisya       |05:25:13 | 19-10-2026| login OK @nisyazerlina | score=1430 rank=4793
-[1]Nisya       |05:25:13 | 19-10-2026| serverTime=2026-10-19T05:25:13.000Z local=2026-10-19T05:25:13.708Z
+[1]Nisya       |05:27:22 | 20-10-2026| login OK @nisyazerlina | score=1500 rank=4702
+[1]Nisya       |05:27:22 | 20-10-2026| serverTime=2026-10-20T05:27:22.000Z local=2026-10-20T05:27:22.151Z
 --> [1]Nisya menjalankan: Claim Daily
-[1]Nisya       |05:25:15 | 19-10-2026| daily: OK +10 poin score=1440
---> [1]Nisya menjalankan: Auto All Tasks (6 pending)
-[1]Nisya       |05:25:18 | 19-10-2026| [1/6] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/nisyazerlina/status/2112051921513379992
-[1]Nisya       |05:25:18 | 19-10-2026| delay 10s...
-[1]Nisya       |05:25:31 | 19-10-2026| [2/6] 4629ee30 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/nisyazerlina/status/2112052041888049100
-[1]Nisya       |05:25:31 | 19-10-2026| delay 10s...
-[1]Nisya       |05:25:45 | 19-10-2026| [3/6] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/nisyazerlina/status/2112052208577439934
-[1]Nisya       |05:25:45 | 19-10-2026| delay 10s...
-[1]Nisya       |05:25:59 | 19-10-2026| [4/6] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/nisyazerlina/status/2112052232114709502
-[1]Nisya       |05:25:59 | 19-10-2026| delay 10s...
-[1]Nisya       |05:26:13 | 19-10-2026| [5/6] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/nisyazerlina/status/2112052142020556890
-[1]Nisya       |05:26:13 | 19-10-2026| delay 10s...
-[1]Nisya       |05:26:26 | 19-10-2026| [6/6] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/nisyazerlina/status/2112052428897360043
-[1]Nisya       |05:26:26 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nisya       |05:26:28 | 19-10-2026| [1/1] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111998437793382 | proof=https://x.com/nisyazerlina/status/2112052454831147881
+[1]Nisya       |05:27:22 | 20-10-2026| daily: OK +10 poin score=1510
+--> [1]Nisya menjalankan: Auto All Tasks (11 pending)
+[1]Nisya       |05:27:24 | 20-10-2026| [1/11] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nisyazerlina/status/2112414984804358120
+[1]Nisya       |05:27:24 | 20-10-2026| delay 10s...
+[1]Nisya       |05:27:37 | 20-10-2026| [2/11] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nisyazerlina/status/2112415113582879920
+[1]Nisya       |05:27:37 | 20-10-2026| delay 10s...
+[1]Nisya       |05:27:49 | 20-10-2026| [3/11] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nisyazerlina/status/2112415181101361740
+[1]Nisya       |05:27:49 | 20-10-2026| delay 10s...
+[1]Nisya       |05:28:01 | 20-10-2026| [4/11] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nisyazerlina/status/2112415050741994915
+[1]Nisya       |05:28:01 | 20-10-2026| delay 10s...
+[1]Nisya       |05:28:13 | 20-10-2026| [5/11] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nisyazerlina/status/2112415013218334876
+[1]Nisya       |05:28:13 | 20-10-2026| delay 10s...
+[1]Nisya       |05:28:25 | 20-10-2026| [6/11] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nisyazerlina/status/2112415157429613522
+[1]Nisya       |05:28:25 | 20-10-2026| delay 10s...
+[1]Nisya       |05:28:37 | 20-10-2026| [7/11] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nisyazerlina/status/2112415141075445884
+[1]Nisya       |05:28:37 | 20-10-2026| delay 10s...
+[1]Nisya       |05:28:49 | 20-10-2026| [8/11] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nisyazerlina/status/2112415458173660113
+[1]Nisya       |05:28:49 | 20-10-2026| delay 10s...
+[1]Nisya       |05:29:00 | 20-10-2026| [9/11] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nisyazerlina/status/2112415163875117196
+[1]Nisya       |05:29:00 | 20-10-2026| delay 10s...
+[1]Nisya       |05:29:12 | 20-10-2026| [10/11] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nisyazerlina/status/2112415375016773541
+[1]Nisya       |05:29:12 | 20-10-2026| delay 10s...
+[1]Nisya       |05:29:24 | 20-10-2026| [11/11] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nisyazerlina/status/2112415536855199618
+[1]Nisya       |05:29:24 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nisya       |05:29:25 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/nisyazerlina/status/2112415255336137390
 --> [1]Nisya menjalankan: Watch Anime
-[1]Nisya       |05:26:29 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Nisya       |05:26:29 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Nisya       |05:29:26 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Nisya       |05:29:26 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Nisya       |05:26:31 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nisya       |05:26:36 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Nisya       |05:26:39 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nisya       |05:26:44 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Nisya       |05:26:46 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nisya       |05:26:51 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Nisya       |05:26:54 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nisya       |05:29:28 | 20-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nisya       |05:29:33 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Nisya       |05:29:34 | 20-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nisya       |05:29:39 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Nisya       |05:29:41 | 20-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nisya       |05:29:46 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Nisya       |05:29:47 | 20-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Nisya menjalankan: Read Article
-[1]Nisya       |05:26:56 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Nisya       |05:26:56 | 19-10-2026| mint eligibility: {"userId":"2011467283777064960","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nisyazerlina","status":"submitted","revision":"a29def7a-e433-40fb-afd2-3913a2979
-[1]Nisya       |05:26:56 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Nisya       |05:29:48 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Nisya       |05:29:49 | 20-10-2026| mint eligibility: {"userId":"2011467283777064960","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nisyazerlina","status":"submitted","revision":"a29def7a-e433-40fb-afd2-3913a2979
+[1]Nisya       |05:29:49 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Nisya menjalankan: Quiz Anime
-[1]Nisya       |05:26:57 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Nisya       |05:26:57 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Nisya       |05:26:57 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Nisya       |05:26:57 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Nisya       |05:26:57 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Nisya       |05:26:57 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Nisya       |05:29:49 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Nisya       |05:29:49 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Nisya       |05:29:49 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Nisya       |05:29:49 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Nisya       |05:29:49 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Nisya       |05:29:49 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Nisya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nisya       |05:27:00 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nisya       |05:27:01 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Nisya       |05:27:01 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nisya       |05:27:01 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nisya       |05:29:51 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nisya       |05:29:51 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Nisya       |05:29:51 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nisya       |05:29:51 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nisya menjalankan: Claim Missions
-[1]Nisya       |05:27:02 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Nisya       |05:27:02 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nisya       |05:27:02 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nisya       |05:29:52 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Nisya       |05:29:52 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nisya       |05:29:52 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nisya menjalankan: Check Eligibility
 
 --- eligibility [1]Nisya ---
-  @nisyazerlina | score=1430 rank=4793
-  tasks    [###################-] 74/80
+  @nisyazerlina | score=1500 rank=4702
+  tasks    [#################---] 71/82
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -76,14 +86,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nisya menjalankan: Read Manga
-[1]Nisya       |05:27:07 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Nisya       |05:29:54 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nisya menjalankan: Get Gift
-[1]Nisya       |05:27:08 | 19-10-2026| gift: 0/4 belum diterima
+[1]Nisya       |05:29:55 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Nisya menjalankan: Setup Profile
-[1]Nisya       |05:27:08 | 19-10-2026| profile: bio="https://x.com/nisyazerlina" fav=kagura rewardAt=1791712273
-[1]Nisya       |05:27:08 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Nisya       |05:29:55 | 20-10-2026| profile: bio="https://x.com/nisyazerlina" fav=kagura rewardAt=1791712273
+[1]Nisya       |05:29:55 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nisya menjalankan: Bind Wallet
-[1]Nisya       |05:27:09 | 19-10-2026| wallet: sudah terikat 3H7Ws4JHJQ... (solana)
+[1]Nisya       |05:29:56 | 20-10-2026| wallet: sudah terikat 3H7Ws4JHJQ... (solana)
 
 == RINGKASAN ==
-- Nisya: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nisya: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
